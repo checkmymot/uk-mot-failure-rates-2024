@@ -1,0 +1,2172 @@
+{
+ "total_tests": 45573249,
+ "total_fails": 9429143,
+ "total_prs": 2386448,
+ "overall_fail_pct": 20.69,
+ "by_area_min20k": [
+  {
+   "key": "KY",
+   "tests": 273722,
+   "fails": 82363,
+   "fail_pct": 30.09
+  },
+  {
+   "key": "DD",
+   "tests": 211076,
+   "fails": 62905,
+   "fail_pct": 29.8
+  },
+  {
+   "key": "LD",
+   "tests": 40487,
+   "fails": 11864,
+   "fail_pct": 29.3
+  },
+  {
+   "key": "TR",
+   "tests": 274230,
+   "fails": 80150,
+   "fail_pct": 29.23
+  },
+  {
+   "key": "SP",
+   "tests": 213097,
+   "fails": 62086,
+   "fail_pct": 29.14
+  },
+  {
+   "key": "EX",
+   "tests": 502734,
+   "fails": 145830,
+   "fail_pct": 29.01
+  },
+  {
+   "key": "TQ",
+   "tests": 220033,
+   "fails": 63324,
+   "fail_pct": 28.78
+  },
+  {
+   "key": "PL",
+   "tests": 473787,
+   "fails": 136293,
+   "fail_pct": 28.77
+  },
+  {
+   "key": "BA",
+   "tests": 379578,
+   "fails": 105981,
+   "fail_pct": 27.92
+  },
+  {
+   "key": "BN",
+   "tests": 553338,
+   "fails": 151955,
+   "fail_pct": 27.46
+  },
+  {
+   "key": "BS",
+   "tests": 789755,
+   "fails": 210294,
+   "fail_pct": 26.63
+  },
+  {
+   "key": "DT",
+   "tests": 194352,
+   "fails": 50497,
+   "fail_pct": 25.98
+  },
+  {
+   "key": "BH",
+   "tests": 494093,
+   "fails": 127929,
+   "fail_pct": 25.89
+  },
+  {
+   "key": "PO",
+   "tests": 622787,
+   "fails": 160552,
+   "fail_pct": 25.78
+  },
+  {
+   "key": "AB",
+   "tests": 450459,
+   "fails": 114676,
+   "fail_pct": 25.46
+  },
+  {
+   "key": "CF",
+   "tests": 857726,
+   "fails": 218105,
+   "fail_pct": 25.43
+  },
+  {
+   "key": "PH",
+   "tests": 137624,
+   "fails": 34559,
+   "fail_pct": 25.11
+  },
+  {
+   "key": "TA",
+   "tests": 288495,
+   "fails": 72364,
+   "fail_pct": 25.08
+  },
+  {
+   "key": "GL",
+   "tests": 544021,
+   "fails": 135821,
+   "fail_pct": 24.97
+  },
+  {
+   "key": "LN",
+   "tests": 275357,
+   "fails": 68636,
+   "fail_pct": 24.93
+  },
+  {
+   "key": "NP",
+   "tests": 421089,
+   "fails": 103137,
+   "fail_pct": 24.49
+  },
+  {
+   "key": "EH",
+   "tests": 622000,
+   "fails": 152289,
+   "fail_pct": 24.48
+  },
+  {
+   "key": "HU",
+   "tests": 336754,
+   "fails": 82268,
+   "fail_pct": 24.43
+  },
+  {
+   "key": "IV",
+   "tests": 212146,
+   "fails": 51565,
+   "fail_pct": 24.31
+  },
+  {
+   "key": "SN",
+   "tests": 360236,
+   "fails": 86823,
+   "fail_pct": 24.1
+  },
+  {
+   "key": "SA",
+   "tests": 625266,
+   "fails": 150221,
+   "fail_pct": 24.03
+  },
+  {
+   "key": "NR",
+   "tests": 608702,
+   "fails": 145234,
+   "fail_pct": 23.86
+  },
+  {
+   "key": "PA",
+   "tests": 193263,
+   "fails": 45965,
+   "fail_pct": 23.78
+  },
+  {
+   "key": "CT",
+   "tests": 361402,
+   "fails": 85839,
+   "fail_pct": 23.75
+  },
+  {
+   "key": "CH",
+   "tests": 486968,
+   "fails": 113894,
+   "fail_pct": 23.39
+  },
+  {
+   "key": "HD",
+   "tests": 188945,
+   "fails": 44043,
+   "fail_pct": 23.31
+  },
+  {
+   "key": "LL",
+   "tests": 456820,
+   "fails": 105807,
+   "fail_pct": 23.16
+  },
+  {
+   "key": "SR",
+   "tests": 146636,
+   "fails": 33703,
+   "fail_pct": 22.98
+  },
+  {
+   "key": "FY",
+   "tests": 183646,
+   "fails": 42191,
+   "fail_pct": 22.97
+  },
+  {
+   "key": "TD",
+   "tests": 94129,
+   "fails": 21600,
+   "fail_pct": 22.95
+  },
+  {
+   "key": "YO",
+   "tests": 454479,
+   "fails": 104317,
+   "fail_pct": 22.95
+  },
+  {
+   "key": "ST",
+   "tests": 494127,
+   "fails": 113340,
+   "fail_pct": 22.94
+  },
+  {
+   "key": "NN",
+   "tests": 546772,
+   "fails": 124184,
+   "fail_pct": 22.71
+  },
+  {
+   "key": "FK",
+   "tests": 201869,
+   "fails": 45564,
+   "fail_pct": 22.57
+  },
+  {
+   "key": "IP",
+   "tests": 528464,
+   "fails": 116642,
+   "fail_pct": 22.07
+  },
+  {
+   "key": "SO",
+   "tests": 503286,
+   "fails": 110891,
+   "fail_pct": 22.03
+  },
+  {
+   "key": "NG",
+   "tests": 827359,
+   "fails": 181945,
+   "fail_pct": 21.99
+  },
+  {
+   "key": "DL",
+   "tests": 243881,
+   "fails": 53148,
+   "fail_pct": 21.79
+  },
+  {
+   "key": "LA",
+   "tests": 220200,
+   "fails": 47897,
+   "fail_pct": 21.75
+  },
+  {
+   "key": "CO",
+   "tests": 329934,
+   "fails": 71742,
+   "fail_pct": 21.74
+  },
+  {
+   "key": "TF",
+   "tests": 173878,
+   "fails": 37704,
+   "fail_pct": 21.68
+  },
+  {
+   "key": "GU",
+   "tests": 549293,
+   "fails": 118524,
+   "fail_pct": 21.58
+  },
+  {
+   "key": "LS",
+   "tests": 488951,
+   "fails": 105186,
+   "fail_pct": 21.51
+  },
+  {
+   "key": "WN",
+   "tests": 212823,
+   "fails": 45600,
+   "fail_pct": 21.43
+  },
+  {
+   "key": "CB",
+   "tests": 300979,
+   "fails": 64236,
+   "fail_pct": 21.34
+  },
+  {
+   "key": "HR",
+   "tests": 171675,
+   "fails": 36406,
+   "fail_pct": 21.21
+  },
+  {
+   "key": "SY",
+   "tests": 290384,
+   "fails": 61393,
+   "fail_pct": 21.14
+  },
+  {
+   "key": "OX",
+   "tests": 540412,
+   "fails": 113827,
+   "fail_pct": 21.06
+  },
+  {
+   "key": "TN",
+   "tests": 664872,
+   "fails": 139105,
+   "fail_pct": 20.92
+  },
+  {
+   "key": "RH",
+   "tests": 484718,
+   "fails": 100777,
+   "fail_pct": 20.79
+  },
+  {
+   "key": "CA",
+   "tests": 271032,
+   "fails": 55904,
+   "fail_pct": 20.63
+  },
+  {
+   "key": "WR",
+   "tests": 248408,
+   "fails": 50911,
+   "fail_pct": 20.49
+  },
+  {
+   "key": "KA",
+   "tests": 306185,
+   "fails": 62483,
+   "fail_pct": 20.41
+  },
+  {
+   "key": "ML",
+   "tests": 257640,
+   "fails": 52563,
+   "fail_pct": 20.4
+  },
+  {
+   "key": "CW",
+   "tests": 257984,
+   "fails": 52255,
+   "fail_pct": 20.26
+  },
+  {
+   "key": "WS",
+   "tests": 310366,
+   "fails": 62668,
+   "fail_pct": 20.19
+  },
+  {
+   "key": "WA",
+   "tests": 463182,
+   "fails": 93325,
+   "fail_pct": 20.15
+  },
+  {
+   "key": "NE",
+   "tests": 759336,
+   "fails": 152843,
+   "fail_pct": 20.13
+  },
+  {
+   "key": "OL",
+   "tests": 314604,
+   "fails": 63236,
+   "fail_pct": 20.1
+  },
+  {
+   "key": "M",
+   "tests": 693667,
+   "fails": 139331,
+   "fail_pct": 20.09
+  },
+  {
+   "key": "WD",
+   "tests": 166731,
+   "fails": 33451,
+   "fail_pct": 20.06
+  },
+  {
+   "key": "TS",
+   "tests": 420732,
+   "fails": 84194,
+   "fail_pct": 20.01
+  },
+  {
+   "key": "KW",
+   "tests": 36420,
+   "fails": 7228,
+   "fail_pct": 19.85
+  },
+  {
+   "key": "PR",
+   "tests": 420175,
+   "fails": 83246,
+   "fail_pct": 19.81
+  },
+  {
+   "key": "SK",
+   "tests": 446556,
+   "fails": 87870,
+   "fail_pct": 19.68
+  },
+  {
+   "key": "G",
+   "tests": 833977,
+   "fails": 163908,
+   "fail_pct": 19.65
+  },
+  {
+   "key": "PE",
+   "tests": 839357,
+   "fails": 163938,
+   "fail_pct": 19.53
+  },
+  {
+   "key": "SG",
+   "tests": 318841,
+   "fails": 62037,
+   "fail_pct": 19.46
+  },
+  {
+   "key": "DN",
+   "tests": 608887,
+   "fails": 117888,
+   "fail_pct": 19.36
+  },
+  {
+   "key": "BD",
+   "tests": 453220,
+   "fails": 87532,
+   "fail_pct": 19.31
+  },
+  {
+   "key": "BL",
+   "tests": 379163,
+   "fails": 73113,
+   "fail_pct": 19.28
+  },
+  {
+   "key": "WF",
+   "tests": 395052,
+   "fails": 76138,
+   "fail_pct": 19.27
+  },
+  {
+   "key": "DG",
+   "tests": 112447,
+   "fails": 21563,
+   "fail_pct": 19.18
+  },
+  {
+   "key": "L",
+   "tests": 432763,
+   "fails": 82833,
+   "fail_pct": 19.14
+  },
+  {
+   "key": "RG",
+   "tests": 646707,
+   "fails": 123103,
+   "fail_pct": 19.04
+  },
+  {
+   "key": "HG",
+   "tests": 118948,
+   "fails": 22571,
+   "fail_pct": 18.98
+  },
+  {
+   "key": "MK",
+   "tests": 455057,
+   "fails": 86257,
+   "fail_pct": 18.96
+  },
+  {
+   "key": "HX",
+   "tests": 105862,
+   "fails": 19781,
+   "fail_pct": 18.69
+  },
+  {
+   "key": "DH",
+   "tests": 249470,
+   "fails": 46338,
+   "fail_pct": 18.57
+  },
+  {
+   "key": "LE",
+   "tests": 761738,
+   "fails": 141060,
+   "fail_pct": 18.52
+  },
+  {
+   "key": "ME",
+   "tests": 572095,
+   "fails": 105862,
+   "fail_pct": 18.5
+  },
+  {
+   "key": "AL",
+   "tests": 197568,
+   "fails": 36231,
+   "fail_pct": 18.34
+  },
+  {
+   "key": "DE",
+   "tests": 621953,
+   "fails": 113847,
+   "fail_pct": 18.3
+  },
+  {
+   "key": "DY",
+   "tests": 287873,
+   "fails": 52166,
+   "fail_pct": 18.12
+  },
+  {
+   "key": "CV",
+   "tests": 615885,
+   "fails": 111393,
+   "fail_pct": 18.09
+  },
+  {
+   "key": "WV",
+   "tests": 313741,
+   "fails": 55697,
+   "fail_pct": 17.75
+  },
+  {
+   "key": "CM",
+   "tests": 569855,
+   "fails": 98235,
+   "fail_pct": 17.24
+  },
+  {
+   "key": "S",
+   "tests": 1100611,
+   "fails": 187225,
+   "fail_pct": 17.01
+  },
+  {
+   "key": "BB",
+   "tests": 422522,
+   "fails": 71820,
+   "fail_pct": 17.0
+  },
+  {
+   "key": "HP",
+   "tests": 502525,
+   "fails": 84497,
+   "fail_pct": 16.81
+  },
+  {
+   "key": "W",
+   "tests": 116160,
+   "fails": 18909,
+   "fail_pct": 16.28
+  },
+  {
+   "key": "SW",
+   "tests": 190841,
+   "fails": 31033,
+   "fail_pct": 16.26
+  },
+  {
+   "key": "KT",
+   "tests": 334853,
+   "fails": 54177,
+   "fail_pct": 16.18
+  },
+  {
+   "key": "LU",
+   "tests": 261268,
+   "fails": 42043,
+   "fail_pct": 16.09
+  },
+  {
+   "key": "B",
+   "tests": 1352246,
+   "fails": 213243,
+   "fail_pct": 15.77
+  },
+  {
+   "key": "BR",
+   "tests": 173244,
+   "fails": 26371,
+   "fail_pct": 15.22
+  },
+  {
+   "key": "SM",
+   "tests": 81884,
+   "fails": 12358,
+   "fail_pct": 15.09
+  },
+  {
+   "key": "SE",
+   "tests": 339326,
+   "fails": 50896,
+   "fail_pct": 15.0
+  },
+  {
+   "key": "SS",
+   "tests": 439216,
+   "fails": 65523,
+   "fail_pct": 14.92
+  },
+  {
+   "key": "SL",
+   "tests": 288208,
+   "fails": 41737,
+   "fail_pct": 14.48
+  },
+  {
+   "key": "CR",
+   "tests": 272328,
+   "fails": 37848,
+   "fail_pct": 13.9
+  },
+  {
+   "key": "TW",
+   "tests": 367846,
+   "fails": 50471,
+   "fail_pct": 13.72
+  },
+  {
+   "key": "DA",
+   "tests": 324146,
+   "fails": 44438,
+   "fail_pct": 13.71
+  },
+  {
+   "key": "NW",
+   "tests": 362167,
+   "fails": 49337,
+   "fail_pct": 13.62
+  },
+  {
+   "key": "N",
+   "tests": 260901,
+   "fails": 35005,
+   "fail_pct": 13.42
+  },
+  {
+   "key": "IG",
+   "tests": 197057,
+   "fails": 26248,
+   "fail_pct": 13.32
+  },
+  {
+   "key": "HA",
+   "tests": 254336,
+   "fails": 32612,
+   "fail_pct": 12.82
+  },
+  {
+   "key": "RM",
+   "tests": 343871,
+   "fails": 42936,
+   "fail_pct": 12.49
+  },
+  {
+   "key": "EN",
+   "tests": 290099,
+   "fails": 33185,
+   "fail_pct": 11.44
+  },
+  {
+   "key": "UB",
+   "tests": 310961,
+   "fails": 35377,
+   "fail_pct": 11.38
+  },
+  {
+   "key": "E",
+   "tests": 366961,
+   "fails": 38425,
+   "fail_pct": 10.47
+  }
+ ],
+ "by_area_all": [
+  {
+   "key": "KY",
+   "tests": 273722,
+   "fails": 82363,
+   "fail_pct": 30.09
+  },
+  {
+   "key": "DD",
+   "tests": 211076,
+   "fails": 62905,
+   "fail_pct": 29.8
+  },
+  {
+   "key": "LD",
+   "tests": 40487,
+   "fails": 11864,
+   "fail_pct": 29.3
+  },
+  {
+   "key": "TR",
+   "tests": 274230,
+   "fails": 80150,
+   "fail_pct": 29.23
+  },
+  {
+   "key": "SP",
+   "tests": 213097,
+   "fails": 62086,
+   "fail_pct": 29.14
+  },
+  {
+   "key": "EX",
+   "tests": 502734,
+   "fails": 145830,
+   "fail_pct": 29.01
+  },
+  {
+   "key": "TQ",
+   "tests": 220033,
+   "fails": 63324,
+   "fail_pct": 28.78
+  },
+  {
+   "key": "PL",
+   "tests": 473787,
+   "fails": 136293,
+   "fail_pct": 28.77
+  },
+  {
+   "key": "BA",
+   "tests": 379578,
+   "fails": 105981,
+   "fail_pct": 27.92
+  },
+  {
+   "key": "BN",
+   "tests": 553338,
+   "fails": 151955,
+   "fail_pct": 27.46
+  },
+  {
+   "key": "BS",
+   "tests": 789755,
+   "fails": 210294,
+   "fail_pct": 26.63
+  },
+  {
+   "key": "DT",
+   "tests": 194352,
+   "fails": 50497,
+   "fail_pct": 25.98
+  },
+  {
+   "key": "BH",
+   "tests": 494093,
+   "fails": 127929,
+   "fail_pct": 25.89
+  },
+  {
+   "key": "PO",
+   "tests": 622787,
+   "fails": 160552,
+   "fail_pct": 25.78
+  },
+  {
+   "key": "AB",
+   "tests": 450459,
+   "fails": 114676,
+   "fail_pct": 25.46
+  },
+  {
+   "key": "CF",
+   "tests": 857726,
+   "fails": 218105,
+   "fail_pct": 25.43
+  },
+  {
+   "key": "PH",
+   "tests": 137624,
+   "fails": 34559,
+   "fail_pct": 25.11
+  },
+  {
+   "key": "TA",
+   "tests": 288495,
+   "fails": 72364,
+   "fail_pct": 25.08
+  },
+  {
+   "key": "GL",
+   "tests": 544021,
+   "fails": 135821,
+   "fail_pct": 24.97
+  },
+  {
+   "key": "LN",
+   "tests": 275357,
+   "fails": 68636,
+   "fail_pct": 24.93
+  },
+  {
+   "key": "NP",
+   "tests": 421089,
+   "fails": 103137,
+   "fail_pct": 24.49
+  },
+  {
+   "key": "EH",
+   "tests": 622000,
+   "fails": 152289,
+   "fail_pct": 24.48
+  },
+  {
+   "key": "HU",
+   "tests": 336754,
+   "fails": 82268,
+   "fail_pct": 24.43
+  },
+  {
+   "key": "IV",
+   "tests": 212146,
+   "fails": 51565,
+   "fail_pct": 24.31
+  },
+  {
+   "key": "SN",
+   "tests": 360236,
+   "fails": 86823,
+   "fail_pct": 24.1
+  },
+  {
+   "key": "SA",
+   "tests": 625266,
+   "fails": 150221,
+   "fail_pct": 24.03
+  },
+  {
+   "key": "NR",
+   "tests": 608702,
+   "fails": 145234,
+   "fail_pct": 23.86
+  },
+  {
+   "key": "PA",
+   "tests": 193263,
+   "fails": 45965,
+   "fail_pct": 23.78
+  },
+  {
+   "key": "CT",
+   "tests": 361402,
+   "fails": 85839,
+   "fail_pct": 23.75
+  },
+  {
+   "key": "CH",
+   "tests": 486968,
+   "fails": 113894,
+   "fail_pct": 23.39
+  },
+  {
+   "key": "HD",
+   "tests": 188945,
+   "fails": 44043,
+   "fail_pct": 23.31
+  },
+  {
+   "key": "LL",
+   "tests": 456820,
+   "fails": 105807,
+   "fail_pct": 23.16
+  },
+  {
+   "key": "SR",
+   "tests": 146636,
+   "fails": 33703,
+   "fail_pct": 22.98
+  },
+  {
+   "key": "FY",
+   "tests": 183646,
+   "fails": 42191,
+   "fail_pct": 22.97
+  },
+  {
+   "key": "TD",
+   "tests": 94129,
+   "fails": 21600,
+   "fail_pct": 22.95
+  },
+  {
+   "key": "YO",
+   "tests": 454479,
+   "fails": 104317,
+   "fail_pct": 22.95
+  },
+  {
+   "key": "ST",
+   "tests": 494127,
+   "fails": 113340,
+   "fail_pct": 22.94
+  },
+  {
+   "key": "NN",
+   "tests": 546772,
+   "fails": 124184,
+   "fail_pct": 22.71
+  },
+  {
+   "key": "FK",
+   "tests": 201869,
+   "fails": 45564,
+   "fail_pct": 22.57
+  },
+  {
+   "key": "HS",
+   "tests": 16145,
+   "fails": 3617,
+   "fail_pct": 22.4
+  },
+  {
+   "key": "ZE",
+   "tests": 14830,
+   "fails": 3291,
+   "fail_pct": 22.19
+  },
+  {
+   "key": "IP",
+   "tests": 528464,
+   "fails": 116642,
+   "fail_pct": 22.07
+  },
+  {
+   "key": "SO",
+   "tests": 503286,
+   "fails": 110891,
+   "fail_pct": 22.03
+  },
+  {
+   "key": "NG",
+   "tests": 827359,
+   "fails": 181945,
+   "fail_pct": 21.99
+  },
+  {
+   "key": "DL",
+   "tests": 243881,
+   "fails": 53148,
+   "fail_pct": 21.79
+  },
+  {
+   "key": "LA",
+   "tests": 220200,
+   "fails": 47897,
+   "fail_pct": 21.75
+  },
+  {
+   "key": "CO",
+   "tests": 329934,
+   "fails": 71742,
+   "fail_pct": 21.74
+  },
+  {
+   "key": "TF",
+   "tests": 173878,
+   "fails": 37704,
+   "fail_pct": 21.68
+  },
+  {
+   "key": "GU",
+   "tests": 549293,
+   "fails": 118524,
+   "fail_pct": 21.58
+  },
+  {
+   "key": "LS",
+   "tests": 488951,
+   "fails": 105186,
+   "fail_pct": 21.51
+  },
+  {
+   "key": "WN",
+   "tests": 212823,
+   "fails": 45600,
+   "fail_pct": 21.43
+  },
+  {
+   "key": "CB",
+   "tests": 300979,
+   "fails": 64236,
+   "fail_pct": 21.34
+  },
+  {
+   "key": "HR",
+   "tests": 171675,
+   "fails": 36406,
+   "fail_pct": 21.21
+  },
+  {
+   "key": "SY",
+   "tests": 290384,
+   "fails": 61393,
+   "fail_pct": 21.14
+  },
+  {
+   "key": "OX",
+   "tests": 540412,
+   "fails": 113827,
+   "fail_pct": 21.06
+  },
+  {
+   "key": "TN",
+   "tests": 664872,
+   "fails": 139105,
+   "fail_pct": 20.92
+  },
+  {
+   "key": "RH",
+   "tests": 484718,
+   "fails": 100777,
+   "fail_pct": 20.79
+  },
+  {
+   "key": "CA",
+   "tests": 271032,
+   "fails": 55904,
+   "fail_pct": 20.63
+  },
+  {
+   "key": "WR",
+   "tests": 248408,
+   "fails": 50911,
+   "fail_pct": 20.49
+  },
+  {
+   "key": "KA",
+   "tests": 306185,
+   "fails": 62483,
+   "fail_pct": 20.41
+  },
+  {
+   "key": "ML",
+   "tests": 257640,
+   "fails": 52563,
+   "fail_pct": 20.4
+  },
+  {
+   "key": "CW",
+   "tests": 257984,
+   "fails": 52255,
+   "fail_pct": 20.26
+  },
+  {
+   "key": "WS",
+   "tests": 310366,
+   "fails": 62668,
+   "fail_pct": 20.19
+  },
+  {
+   "key": "WA",
+   "tests": 463182,
+   "fails": 93325,
+   "fail_pct": 20.15
+  },
+  {
+   "key": "NE",
+   "tests": 759336,
+   "fails": 152843,
+   "fail_pct": 20.13
+  },
+  {
+   "key": "OL",
+   "tests": 314604,
+   "fails": 63236,
+   "fail_pct": 20.1
+  },
+  {
+   "key": "M",
+   "tests": 693667,
+   "fails": 139331,
+   "fail_pct": 20.09
+  },
+  {
+   "key": "WD",
+   "tests": 166731,
+   "fails": 33451,
+   "fail_pct": 20.06
+  },
+  {
+   "key": "TS",
+   "tests": 420732,
+   "fails": 84194,
+   "fail_pct": 20.01
+  },
+  {
+   "key": "KW",
+   "tests": 36420,
+   "fails": 7228,
+   "fail_pct": 19.85
+  },
+  {
+   "key": "PR",
+   "tests": 420175,
+   "fails": 83246,
+   "fail_pct": 19.81
+  },
+  {
+   "key": "SK",
+   "tests": 446556,
+   "fails": 87870,
+   "fail_pct": 19.68
+  },
+  {
+   "key": "G",
+   "tests": 833977,
+   "fails": 163908,
+   "fail_pct": 19.65
+  },
+  {
+   "key": "PE",
+   "tests": 839357,
+   "fails": 163938,
+   "fail_pct": 19.53
+  },
+  {
+   "key": "SG",
+   "tests": 318841,
+   "fails": 62037,
+   "fail_pct": 19.46
+  },
+  {
+   "key": "DN",
+   "tests": 608887,
+   "fails": 117888,
+   "fail_pct": 19.36
+  },
+  {
+   "key": "BD",
+   "tests": 453220,
+   "fails": 87532,
+   "fail_pct": 19.31
+  },
+  {
+   "key": "BL",
+   "tests": 379163,
+   "fails": 73113,
+   "fail_pct": 19.28
+  },
+  {
+   "key": "WF",
+   "tests": 395052,
+   "fails": 76138,
+   "fail_pct": 19.27
+  },
+  {
+   "key": "DG",
+   "tests": 112447,
+   "fails": 21563,
+   "fail_pct": 19.18
+  },
+  {
+   "key": "L",
+   "tests": 432763,
+   "fails": 82833,
+   "fail_pct": 19.14
+  },
+  {
+   "key": "RG",
+   "tests": 646707,
+   "fails": 123103,
+   "fail_pct": 19.04
+  },
+  {
+   "key": "HG",
+   "tests": 118948,
+   "fails": 22571,
+   "fail_pct": 18.98
+  },
+  {
+   "key": "MK",
+   "tests": 455057,
+   "fails": 86257,
+   "fail_pct": 18.96
+  },
+  {
+   "key": "HX",
+   "tests": 105862,
+   "fails": 19781,
+   "fail_pct": 18.69
+  },
+  {
+   "key": "DH",
+   "tests": 249470,
+   "fails": 46338,
+   "fail_pct": 18.57
+  },
+  {
+   "key": "LE",
+   "tests": 761738,
+   "fails": 141060,
+   "fail_pct": 18.52
+  },
+  {
+   "key": "ME",
+   "tests": 572095,
+   "fails": 105862,
+   "fail_pct": 18.5
+  },
+  {
+   "key": "AL",
+   "tests": 197568,
+   "fails": 36231,
+   "fail_pct": 18.34
+  },
+  {
+   "key": "DE",
+   "tests": 621953,
+   "fails": 113847,
+   "fail_pct": 18.3
+  },
+  {
+   "key": "DY",
+   "tests": 287873,
+   "fails": 52166,
+   "fail_pct": 18.12
+  },
+  {
+   "key": "CV",
+   "tests": 615885,
+   "fails": 111393,
+   "fail_pct": 18.09
+  },
+  {
+   "key": "WV",
+   "tests": 313741,
+   "fails": 55697,
+   "fail_pct": 17.75
+  },
+  {
+   "key": "CM",
+   "tests": 569855,
+   "fails": 98235,
+   "fail_pct": 17.24
+  },
+  {
+   "key": "S",
+   "tests": 1100611,
+   "fails": 187225,
+   "fail_pct": 17.01
+  },
+  {
+   "key": "BB",
+   "tests": 422522,
+   "fails": 71820,
+   "fail_pct": 17.0
+  },
+  {
+   "key": "HP",
+   "tests": 502525,
+   "fails": 84497,
+   "fail_pct": 16.81
+  },
+  {
+   "key": "W",
+   "tests": 116160,
+   "fails": 18909,
+   "fail_pct": 16.28
+  },
+  {
+   "key": "SW",
+   "tests": 190841,
+   "fails": 31033,
+   "fail_pct": 16.26
+  },
+  {
+   "key": "KT",
+   "tests": 334853,
+   "fails": 54177,
+   "fail_pct": 16.18
+  },
+  {
+   "key": "LU",
+   "tests": 261268,
+   "fails": 42043,
+   "fail_pct": 16.09
+  },
+  {
+   "key": "B",
+   "tests": 1352246,
+   "fails": 213243,
+   "fail_pct": 15.77
+  },
+  {
+   "key": "XX",
+   "tests": 2111,
+   "fails": 331,
+   "fail_pct": 15.68
+  },
+  {
+   "key": "BR",
+   "tests": 173244,
+   "fails": 26371,
+   "fail_pct": 15.22
+  },
+  {
+   "key": "SM",
+   "tests": 81884,
+   "fails": 12358,
+   "fail_pct": 15.09
+  },
+  {
+   "key": "SE",
+   "tests": 339326,
+   "fails": 50896,
+   "fail_pct": 15.0
+  },
+  {
+   "key": "SS",
+   "tests": 439216,
+   "fails": 65523,
+   "fail_pct": 14.92
+  },
+  {
+   "key": "SL",
+   "tests": 288208,
+   "fails": 41737,
+   "fail_pct": 14.48
+  },
+  {
+   "key": "CR",
+   "tests": 272328,
+   "fails": 37848,
+   "fail_pct": 13.9
+  },
+  {
+   "key": "TW",
+   "tests": 367846,
+   "fails": 50471,
+   "fail_pct": 13.72
+  },
+  {
+   "key": "DA",
+   "tests": 324146,
+   "fails": 44438,
+   "fail_pct": 13.71
+  },
+  {
+   "key": "NW",
+   "tests": 362167,
+   "fails": 49337,
+   "fail_pct": 13.62
+  },
+  {
+   "key": "N",
+   "tests": 260901,
+   "fails": 35005,
+   "fail_pct": 13.42
+  },
+  {
+   "key": "IG",
+   "tests": 197057,
+   "fails": 26248,
+   "fail_pct": 13.32
+  },
+  {
+   "key": "HA",
+   "tests": 254336,
+   "fails": 32612,
+   "fail_pct": 12.82
+  },
+  {
+   "key": "RM",
+   "tests": 343871,
+   "fails": 42936,
+   "fail_pct": 12.49
+  },
+  {
+   "key": "EN",
+   "tests": 290099,
+   "fails": 33185,
+   "fail_pct": 11.44
+  },
+  {
+   "key": "UB",
+   "tests": 310961,
+   "fails": 35377,
+   "fail_pct": 11.38
+  },
+  {
+   "key": "E",
+   "tests": 366961,
+   "fails": 38425,
+   "fail_pct": 10.47
+  }
+ ],
+ "by_model_min5k_worst": [
+  {
+   "key": "('NISSAN', 'PRIMASTAR')",
+   "tests": 11923,
+   "fails": 5218,
+   "fail_pct": 43.76
+  },
+  {
+   "key": "('CHEVROLET', 'AVEO')",
+   "tests": 10929,
+   "fails": 4727,
+   "fail_pct": 43.25
+  },
+  {
+   "key": "('CHEVROLET', 'MATIZ')",
+   "tests": 14350,
+   "fails": 6206,
+   "fail_pct": 43.25
+  },
+  {
+   "key": "('PEUGEOT', '307')",
+   "tests": 40010,
+   "fails": 17157,
+   "fail_pct": 42.88
+  },
+  {
+   "key": "('CITROEN', 'XSARA')",
+   "tests": 32039,
+   "fails": 13574,
+   "fail_pct": 42.37
+  },
+  {
+   "key": "('FIAT', 'BRAVO')",
+   "tests": 7047,
+   "fails": 2973,
+   "fail_pct": 42.19
+  },
+  {
+   "key": "('RENAULT', 'MODUS')",
+   "tests": 15807,
+   "fails": 6645,
+   "fail_pct": 42.04
+  },
+  {
+   "key": "('HYUNDAI', 'COUPE')",
+   "tests": 8302,
+   "fails": 3426,
+   "fail_pct": 41.27
+  },
+  {
+   "key": "('CITROEN', 'GRAND C4 PICASSO')",
+   "tests": 5727,
+   "fails": 2354,
+   "fail_pct": 41.1
+  },
+  {
+   "key": "('MAZDA', '5')",
+   "tests": 11759,
+   "fails": 4796,
+   "fail_pct": 40.79
+  },
+  {
+   "key": "('VAUXHALL', 'TIGRA')",
+   "tests": 9510,
+   "fails": 3879,
+   "fail_pct": 40.79
+  },
+  {
+   "key": "('FORD', 'FOCUS C-MAX')",
+   "tests": 15225,
+   "fails": 6175,
+   "fail_pct": 40.56
+  },
+  {
+   "key": "('HYUNDAI', 'MATRIX')",
+   "tests": 5058,
+   "fails": 2043,
+   "fail_pct": 40.39
+  },
+  {
+   "key": "('FIAT', 'SCUDO')",
+   "tests": 10936,
+   "fails": 4410,
+   "fail_pct": 40.33
+  },
+  {
+   "key": "('TALBOT', 'EXPRESS')",
+   "tests": 8400,
+   "fails": 3363,
+   "fail_pct": 40.04
+  },
+  {
+   "key": "('PEUGEOT', '207')",
+   "tests": 152610,
+   "fails": 60579,
+   "fail_pct": 39.7
+  },
+  {
+   "key": "('PEUGEOT', '206')",
+   "tests": 52150,
+   "fails": 20669,
+   "fail_pct": 39.63
+  },
+  {
+   "key": "('VOLKSWAGEN', 'FOX')",
+   "tests": 34655,
+   "fails": 13640,
+   "fail_pct": 39.36
+  },
+  {
+   "key": "('CITROEN', 'C2')",
+   "tests": 15358,
+   "fails": 6033,
+   "fail_pct": 39.28
+  },
+  {
+   "key": "('MAZDA', 'BONGO')",
+   "tests": 12630,
+   "fails": 4952,
+   "fail_pct": 39.21
+  }
+ ],
+ "by_model_min5k_best": [
+  {
+   "key": "('HONDA', 'JAZZ CROSSTAR EX I-MMD CVT')",
+   "tests": 9135,
+   "fails": 229,
+   "fail_pct": 2.51
+  },
+  {
+   "key": "('BENTLEY', 'CONTINENTAL GT')",
+   "tests": 9753,
+   "fails": 245,
+   "fail_pct": 2.51
+  },
+  {
+   "key": "('BENTLEY', 'BENTAYGA')",
+   "tests": 8594,
+   "fails": 217,
+   "fail_pct": 2.53
+  },
+  {
+   "key": "('ASTON MARTIN', 'DB11')",
+   "tests": 6562,
+   "fails": 172,
+   "fail_pct": 2.62
+  },
+  {
+   "key": "('LEXUS', 'UX')",
+   "tests": 18320,
+   "fails": 617,
+   "fail_pct": 3.37
+  },
+  {
+   "key": "('TOYOTA', 'YARIS DESIGN HEV CVT')",
+   "tests": 22868,
+   "fails": 785,
+   "fail_pct": 3.43
+  },
+  {
+   "key": "('HONDA', 'JAZZ EX I-MMD CVT')",
+   "tests": 10720,
+   "fails": 392,
+   "fail_pct": 3.66
+  },
+  {
+   "key": "('NISSAN', 'GT-R')",
+   "tests": 5514,
+   "fails": 207,
+   "fail_pct": 3.75
+  },
+  {
+   "key": "('ASTON MARTIN', 'VANTAGE')",
+   "tests": 10310,
+   "fails": 392,
+   "fail_pct": 3.8
+  },
+  {
+   "key": "('BMW', 'X3 M COMPETITION AUTO')",
+   "tests": 5009,
+   "fails": 193,
+   "fail_pct": 3.85
+  },
+  {
+   "key": "('TOYOTA', 'YARIS EXCEL HEV CVT')",
+   "tests": 5677,
+   "fails": 225,
+   "fail_pct": 3.96
+  },
+  {
+   "key": "('LEXUS', 'ES')",
+   "tests": 5753,
+   "fails": 228,
+   "fail_pct": 3.96
+  },
+  {
+   "key": "('TOYOTA', 'GR YARIS CIRCUIT 4WD')",
+   "tests": 6000,
+   "fails": 241,
+   "fail_pct": 4.02
+  },
+  {
+   "key": "('SUZUKI', 'SWIFT SZ-L DUALJET MHEV')",
+   "tests": 5812,
+   "fails": 235,
+   "fail_pct": 4.04
+  },
+  {
+   "key": "('HONDA', 'JAZZ SR I-MMD CVT')",
+   "tests": 6333,
+   "fails": 274,
+   "fail_pct": 4.33
+  },
+  {
+   "key": "('FORD', 'PUMA ST-LINE MHEV')",
+   "tests": 13130,
+   "fails": 593,
+   "fail_pct": 4.52
+  },
+  {
+   "key": "('TOYOTA', 'C-HR GR SPORT HEV CVT')",
+   "tests": 5502,
+   "fails": 256,
+   "fail_pct": 4.65
+  },
+  {
+   "key": "('LEXUS', 'RX')",
+   "tests": 23521,
+   "fails": 1099,
+   "fail_pct": 4.67
+  },
+  {
+   "key": "('AUDI', 'Q3 S LINE 35 TFSI MHEV S-A')",
+   "tests": 8123,
+   "fails": 388,
+   "fail_pct": 4.78
+  },
+  {
+   "key": "('LEVC', 'TX')",
+   "tests": 13162,
+   "fails": 630,
+   "fail_pct": 4.79
+  }
+ ],
+ "by_make_min20k": [
+  {
+   "key": "CHEVROLET",
+   "tests": 77690,
+   "fails": 28569,
+   "fail_pct": 36.77
+  },
+  {
+   "key": "DAIHATSU",
+   "tests": 24535,
+   "fails": 8080,
+   "fail_pct": 32.93
+  },
+  {
+   "key": "CHRYSLER",
+   "tests": 24193,
+   "fails": 7505,
+   "fail_pct": 31.02
+  },
+  {
+   "key": "RENAULT",
+   "tests": 1258228,
+   "fails": 377437,
+   "fail_pct": 30.0
+  },
+  {
+   "key": "SAAB",
+   "tests": 68878,
+   "fails": 20354,
+   "fail_pct": 29.55
+  },
+  {
+   "key": "ROVER",
+   "tests": 54533,
+   "fails": 15549,
+   "fail_pct": 28.51
+  },
+  {
+   "key": "CITROEN",
+   "tests": 1283522,
+   "fails": 365067,
+   "fail_pct": 28.44
+  },
+  {
+   "key": "VAUXHALL",
+   "tests": 3648446,
+   "fails": 971731,
+   "fail_pct": 26.63
+  },
+  {
+   "key": "PEUGEOT",
+   "tests": 1772681,
+   "fails": 460451,
+   "fail_pct": 25.97
+  },
+  {
+   "key": "FIAT",
+   "tests": 1004984,
+   "fails": 258938,
+   "fail_pct": 25.77
+  },
+  {
+   "key": "SSANGYONG",
+   "tests": 31806,
+   "fails": 7889,
+   "fail_pct": 24.8
+  },
+  {
+   "key": "NISSAN",
+   "tests": 2153499,
+   "fails": 533702,
+   "fail_pct": 24.78
+  },
+  {
+   "key": "ALFA ROMEO",
+   "tests": 99626,
+   "fails": 24550,
+   "fail_pct": 24.64
+  },
+  {
+   "key": "ISUZU",
+   "tests": 64702,
+   "fails": 15811,
+   "fail_pct": 24.44
+  },
+  {
+   "key": "FORD",
+   "tests": 5770781,
+   "fails": 1359091,
+   "fail_pct": 23.55
+  },
+  {
+   "key": "MAZDA",
+   "tests": 730158,
+   "fails": 160283,
+   "fail_pct": 21.95
+  },
+  {
+   "key": "MITSUBISHI",
+   "tests": 411754,
+   "fails": 88086,
+   "fail_pct": 21.39
+  },
+  {
+   "key": "DS",
+   "tests": 60458,
+   "fails": 12899,
+   "fail_pct": 21.34
+  },
+  {
+   "key": "VOLKSWAGEN",
+   "tests": 4273853,
+   "fails": 900299,
+   "fail_pct": 21.07
+  },
+  {
+   "key": "DACIA",
+   "tests": 234500,
+   "fails": 48869,
+   "fail_pct": 20.84
+  },
+  {
+   "key": "SMART (MCC)",
+   "tests": 103258,
+   "fails": 21109,
+   "fail_pct": 20.44
+  },
+  {
+   "key": "HONDA",
+   "tests": 1098549,
+   "fails": 223589,
+   "fail_pct": 20.35
+  },
+  {
+   "key": "HYUNDAI",
+   "tests": 1080841,
+   "fails": 216953,
+   "fail_pct": 20.07
+  },
+  {
+   "key": "JEEP",
+   "tests": 105169,
+   "fails": 21061,
+   "fail_pct": 20.03
+  },
+  {
+   "key": "KIA",
+   "tests": 1225192,
+   "fails": 244889,
+   "fail_pct": 19.99
+  },
+  {
+   "key": "SUZUKI",
+   "tests": 520813,
+   "fails": 102733,
+   "fail_pct": 19.73
+  },
+  {
+   "key": "VOLVO",
+   "tests": 821393,
+   "fails": 161160,
+   "fail_pct": 19.62
+  },
+  {
+   "key": "SEAT",
+   "tests": 759267,
+   "fails": 147745,
+   "fail_pct": 19.46
+  },
+  {
+   "key": "SUBARU",
+   "tests": 83483,
+   "fails": 15881,
+   "fail_pct": 19.02
+  },
+  {
+   "key": "SKODA",
+   "tests": 1009184,
+   "fails": 186221,
+   "fail_pct": 18.45
+  },
+  {
+   "key": "TOYOTA",
+   "tests": 2187605,
+   "fails": 389009,
+   "fail_pct": 17.78
+  },
+  {
+   "key": "MINI",
+   "tests": 1160937,
+   "fails": 191615,
+   "fail_pct": 16.51
+  },
+  {
+   "key": "MERCEDES-BENZ",
+   "tests": 2784351,
+   "fails": 457119,
+   "fail_pct": 16.42
+  },
+  {
+   "key": "LAND ROVER",
+   "tests": 1724364,
+   "fails": 266353,
+   "fail_pct": 15.45
+  },
+  {
+   "key": "AUDI",
+   "tests": 2686167,
+   "fails": 410387,
+   "fail_pct": 15.28
+  },
+  {
+   "key": "MG",
+   "tests": 160878,
+   "fails": 24499,
+   "fail_pct": 15.23
+  },
+  {
+   "key": "JAGUAR",
+   "tests": 607085,
+   "fails": 88572,
+   "fail_pct": 14.59
+  },
+  {
+   "key": "BMW",
+   "tests": 3027070,
+   "fails": 439322,
+   "fail_pct": 14.51
+  },
+  {
+   "key": "ABARTH",
+   "tests": 54985,
+   "fails": 7936,
+   "fail_pct": 14.43
+  },
+  {
+   "key": "TESLA",
+   "tests": 138408,
+   "fails": 17825,
+   "fail_pct": 12.88
+  },
+  {
+   "key": "MASERATI",
+   "tests": 23507,
+   "fails": 2650,
+   "fail_pct": 11.27
+  },
+  {
+   "key": "LEXUS",
+   "tests": 239058,
+   "fails": 26448,
+   "fail_pct": 11.06
+  },
+  {
+   "key": "PORSCHE",
+   "tests": 394642,
+   "fails": 32509,
+   "fail_pct": 8.24
+  },
+  {
+   "key": "BENTLEY",
+   "tests": 61854,
+   "fails": 3090,
+   "fail_pct": 5.0
+  },
+  {
+   "key": "ASTON MARTIN",
+   "tests": 47258,
+   "fails": 2292,
+   "fail_pct": 4.85
+  },
+  {
+   "key": "FERRARI",
+   "tests": 36538,
+   "fails": 1036,
+   "fail_pct": 2.84
+  }
+ ],
+ "by_age": [
+  {
+   "band": "3 years (first MOT)",
+   "tests": 2822878,
+   "fails": 226275,
+   "fail_pct": 8.02
+  },
+  {
+   "band": "4-5 years",
+   "tests": 6354215,
+   "fails": 603676,
+   "fail_pct": 9.5
+  },
+  {
+   "band": "6-7 years",
+   "tests": 7132253,
+   "fails": 943761,
+   "fail_pct": 13.23
+  },
+  {
+   "band": "8-9 years",
+   "tests": 7143779,
+   "fails": 1296337,
+   "fail_pct": 18.15
+  },
+  {
+   "band": "10-12 years",
+   "tests": 8319473,
+   "fails": 2015533,
+   "fail_pct": 24.23
+  },
+  {
+   "band": "13-15 years",
+   "tests": 5821670,
+   "fails": 1784064,
+   "fail_pct": 30.65
+  },
+  {
+   "band": "16-20 years",
+   "tests": 5582642,
+   "fails": 1890668,
+   "fail_pct": 33.87
+  },
+  {
+   "band": "Over 20 years",
+   "tests": 2143231,
+   "fails": 650186,
+   "fail_pct": 30.34
+  }
+ ],
+ "by_fuel": [
+  {
+   "key": "LP",
+   "tests": 11068,
+   "fails": 3125,
+   "fail_pct": 28.23
+  },
+  {
+   "key": "DI",
+   "tests": 19471626,
+   "fails": 4357066,
+   "fail_pct": 22.38
+  },
+  {
+   "key": "PE",
+   "tests": 23408410,
+   "fails": 4813256,
+   "fail_pct": 20.56
+  },
+  {
+   "key": "OT",
+   "tests": 12307,
+   "fails": 1910,
+   "fail_pct": 15.52
+  },
+  {
+   "key": "Electric",
+   "tests": 73840,
+   "fails": 11146,
+   "fail_pct": 15.09
+  },
+  {
+   "key": "GB",
+   "tests": 5078,
+   "fails": 637,
+   "fail_pct": 12.54
+  },
+  {
+   "key": "EL",
+   "tests": 569788,
+   "fails": 58745,
+   "fail_pct": 10.31
+  },
+  {
+   "key": "Hybrid Electric (Clean)",
+   "tests": 453864,
+   "fails": 46757,
+   "fail_pct": 10.3
+  },
+  {
+   "key": "ED",
+   "tests": 115583,
+   "fails": 10937,
+   "fail_pct": 9.46
+  },
+  {
+   "key": "HY",
+   "tests": 1450861,
+   "fails": 125438,
+   "fail_pct": 8.65
+  }
+ ],
+ "by_mileage": [
+  {
+   "band": "Under 30k",
+   "tests": 7211763,
+   "fails": 546119,
+   "fail_pct": 7.57
+  },
+  {
+   "band": "30k-60k",
+   "tests": 13163112,
+   "fails": 1952871,
+   "fail_pct": 14.84
+  },
+  {
+   "band": "60k-90k",
+   "tests": 10914720,
+   "fails": 2541111,
+   "fail_pct": 23.28
+  },
+  {
+   "band": "90k-120k",
+   "tests": 7228587,
+   "fails": 2125810,
+   "fail_pct": 29.41
+  },
+  {
+   "band": "120k-150k",
+   "tests": 3913655,
+   "fails": 1248233,
+   "fail_pct": 31.89
+  },
+  {
+   "band": "150k-200k",
+   "tests": 2361526,
+   "fails": 767066,
+   "fail_pct": 32.48
+  },
+  {
+   "band": "Over 200k",
+   "tests": 682463,
+   "fails": 212031,
+   "fail_pct": 31.07
+  }
+ ],
+ "by_month": [
+  {
+   "month": 1,
+   "tests": 3412231,
+   "fails": 735504,
+   "fail_pct": 21.55
+  },
+  {
+   "month": 2,
+   "tests": 4276474,
+   "fails": 888664,
+   "fail_pct": 20.78
+  },
+  {
+   "month": 3,
+   "tests": 5020407,
+   "fails": 982277,
+   "fail_pct": 19.57
+  },
+  {
+   "month": 4,
+   "tests": 3119660,
+   "fails": 644871,
+   "fail_pct": 20.67
+  },
+  {
+   "month": 5,
+   "tests": 3832461,
+   "fails": 758537,
+   "fail_pct": 19.79
+  },
+  {
+   "month": 6,
+   "tests": 3425786,
+   "fails": 687047,
+   "fail_pct": 20.06
+  },
+  {
+   "month": 7,
+   "tests": 3711193,
+   "fails": 769643,
+   "fail_pct": 20.74
+  },
+  {
+   "month": 8,
+   "tests": 3340735,
+   "fails": 684109,
+   "fail_pct": 20.48
+  },
+  {
+   "month": 9,
+   "tests": 4120317,
+   "fails": 828461,
+   "fail_pct": 20.11
+  },
+  {
+   "month": 10,
+   "tests": 4732418,
+   "fails": 1036234,
+   "fail_pct": 21.9
+  },
+  {
+   "month": 11,
+   "tests": 3489081,
+   "fails": 767497,
+   "fail_pct": 22.0
+  },
+  {
+   "month": 12,
+   "tests": 3092486,
+   "fails": 646299,
+   "fail_pct": 20.9
+  }
+ ]
+}
